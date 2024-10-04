@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Revisar si estás dentro de un repositorio Git
 if [ -d ".git" ]; then
   echo "Revisando el estado del repositorio..."
   
